@@ -1472,8 +1472,11 @@ a#scrollUp {
 }
 
 .navbar-brand img {
-    height: 52px;
+   
+    height: 57px;
     width: auto;
+    padding-left: 101px;
+
 }
 
 .main-menu {
