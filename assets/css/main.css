@@ -1950,8 +1950,8 @@ Hero Area
 
 .hero-section.hero-first::before {
     position: absolute;
-    height: 100%;
-    width: 50%;
+    height: 90%;
+    width: 40%;
     left: 30%;
     content: "";
     background: #ffffff24;
