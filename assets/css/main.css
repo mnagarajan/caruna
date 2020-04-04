@@ -593,6 +593,11 @@ ul, li {
 
 img {
     display: inline-block;
+    max-width: 100%;
+}
+
+Myimg {
+    display: inline-block;
     max-width: 50%;
 }
 
