@@ -5974,7 +5974,8 @@ Products
 
 .product-area .single-product .product-pro-img img {
     width: 50%;
-    text-align:center;
+    align: middle;
+    text-align: center;
 }
 
 .product-area .single-product .product-pro-title {
