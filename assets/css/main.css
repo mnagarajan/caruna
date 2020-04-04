@@ -2580,6 +2580,7 @@ Hero Area
 }
 
 .triangle-particle::after {
+	display:none;
     position: absolute;
     content: "";
     width: 90px;
