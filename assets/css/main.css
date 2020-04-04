@@ -596,11 +596,6 @@ img {
     max-width: 100%;
 }
 
-Myimg {
-    display: inline-block;
-    max-width: 50%;
-}
-
 ::selection {
     background-color: #0E8A701a;
     color: #0fbcf9;
