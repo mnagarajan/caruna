@@ -5980,6 +5980,7 @@ Products
 
 .product-area .single-product .product-pro-title {
     margin-bottom: 10px;
+	text-align: center;
 }
 
 .product-area .single-product .product-pro-title h3 {
@@ -5987,6 +5988,7 @@ Products
     display: block;
     font-weight: 700;
     margin-bottom: 15px;
+    text-align: center;
 }
 
 .product-area .single-product .product-pro-title h3 a:hover {
