@@ -746,7 +746,7 @@ img {
     padding: 120px 0;
 }
 
-.section-padding11 {
+.section-padding-11 {
     padding: 60px 0;
 }
 
@@ -801,7 +801,11 @@ img {
         padding: 100px 0;
     }
 
-    .section-padding-2 {
+ .section-padding-11 {
+    padding: 60px 0;
+ }
+
+   .section-padding-2 {
         padding-top: 100px;
         padding-bottom: 70px;
     }
@@ -817,7 +821,11 @@ img {
         padding: 80px 0;
     }
 
-    .section-padding-2 {
+ .section-padding-11 {
+    padding: 60px 0;
+}
+
+.section-padding-2 {
         padding-top: 80px;
         padding-bottom: 50px;
     }
