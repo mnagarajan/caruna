@@ -1418,9 +1418,9 @@ a#scrollUp {
 
 */
 .header-area {
-    padding: 15px 0;
+    padding: 1px 0;
     transition: 0.4s;
-    width: 100%;
+    width: 108%;
     z-index: 11;
 }
 
